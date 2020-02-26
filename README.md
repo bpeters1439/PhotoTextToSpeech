@@ -8,12 +8,7 @@ Keywords
 <br/>
 text-to-speech, tts, aws, ibm watson, audio, photo text-to-speech, speech, text, microsoft, word, neural network, image recognition, image orientation, robot, Pillow, EXIF, Keras, TensorFlow, pyttsx3
 <br/>
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
+
 
 
 
