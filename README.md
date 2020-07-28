@@ -9,6 +9,7 @@ Keywords
 <p>
 text-to-speech, tts, aws, ibm watson, audio, photo text-to-speech, speech, text, microsoft, word, neural network, image recognition, image orientation, robot, Pillow, EXIF, Keras, TensorFlow, pyttsx3</p>
 <br/>
+<p> Project worked on by Brandon Peters, Benjamin Joskowski, Jordin Rice, Donovin Innocent, and Matthew Mancino</p>
 
 
 
